@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShooterNet.Plugins", "ShooterNet.Plugins.csproj", "{89D782B1-BE21-45FD-49B6-6695C7362FB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShooterNet", "ShooterNet.csproj", "{AFDFC45D-644D-C9CF-1D30-1F4733C9E8E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89D782B1-BE21-45FD-49B6-6695C7362FB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89D782B1-BE21-45FD-49B6-6695C7362FB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89D782B1-BE21-45FD-49B6-6695C7362FB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89D782B1-BE21-45FD-49B6-6695C7362FB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFDFC45D-644D-C9CF-1D30-1F4733C9E8E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFDFC45D-644D-C9CF-1D30-1F4733C9E8E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFDFC45D-644D-C9CF-1D30-1F4733C9E8E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFDFC45D-644D-C9CF-1D30-1F4733C9E8E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
